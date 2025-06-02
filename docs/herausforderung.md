@@ -1,4 +1,4 @@
 ## II. Die Herausforderung
-### : Komplexität im IT Service Management meistern
+### Komplexität im IT Service Management meistern
 
 Viele Unternehmen kämpfen mit ineffizienten IT-Service-Prozessen, mangelnder Transparenz über die Service-Qualität und einer unzureichenden Ausrichtung der IT an den Geschäftsanforderungen. Dies führt zu Frustration bei Anwendern, hohen Betriebskosten und einer eingeschränkten Fähigkeit, Innovationen schnell bereitzustellen. Oft scheitern Implementierungen von ITSM-Frameworks an mangelnder Praxisnähe oder unklaren Erfolgsmessungen. Wie kann ITIL v4 als flexibles Framework genutzt werden, um diese Herausforderungen zu überwinden und einen klaren Mehrwert zu schaffen?
