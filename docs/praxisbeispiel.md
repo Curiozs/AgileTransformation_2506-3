@@ -1,7 +1,6 @@
 
 
 ## IV. Praxisbeispiel: Das Power BI Dashboard "ITIL v4 Service Performance Dashboard"
-*(verfügbar zu einem späteren Zeitpunkt)*
 
 Um den Erfolg Ihrer ITIL v4 Implementierung nicht nur zu spüren, sondern auch messbar zu machen, haben wir ein interaktives Power BI Dashboard entwickelt. Dieses Tool visualisiert die wichtigsten ITIL v4 KPIs und bietet Ihnen einen transparenten Überblick über die Performance Ihrer IT-Services.
 
