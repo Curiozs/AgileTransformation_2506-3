@@ -18,7 +18,7 @@ Damit das Dashboard bei Ihnen funktioniert, müssen Sie Power BI einmalig mittei
 - Herunterladen & Entpacken: Laden Sie die .zip-Datei herunter und entpacken Sie alle enthaltenen Dateien in einen Ordner Ihrer Wahl auf Ihrem Computer.
 - Dateien ablegen: Speichern Sie die Power BI- und die Excel-Datei in einem festen, lokalen Ordner, auf den Sie dauerhaft Zugriff haben.
 - Dashboard öffnen: Öffnen Sie die Power BI-Datei (.pbix). Es erscheint wahrscheinlich eine gelbe Warnmeldung, dass die Datenquellen nicht gefunden werden können. Das ist normal.
-- Datenquelle aktualisieren: Folgen Sie nun den Schritten zur Aktualisierung der Datenquelle. ![Ein alternativer Text für das GIF]({{ site.baseurl }}/assets/anleitung.gif)
+- Datenquelle aktualisieren: Folgen Sie nun den Schritten zur Aktualisierung der Datenquelle. ![Anleitung]({{ site.baseurl }}/assets/Anleitung.gif)
 
 Im Wesentlichen müssen Sie über Transformieren > Datenquelleneinstellungen den Pfad zur Excel-Datenquelle auf Ihrem Computer neu auswählen und bestätigen.
 
